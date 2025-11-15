@@ -1,0 +1,4 @@
+name: "Deploy through Elastic Beanstalk"
+
+on:
+  push:
